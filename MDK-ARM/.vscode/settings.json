@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "stdio.h": "c",
+        "com_debug.h": "c",
+        "com_delay.h": "c",
+        "ds3553.h": "c",
+        "com_util.h": "c",
+        "i2c.h": "c",
+        "at6558r.h": "c",
+        "gpio.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "string.h": "c",
+        "new": "c",
+        "qs100.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "deque": "c",
+        "queue": "c",
+        "string": "c",
+        "vector": "c",
+        "app_main.h": "c",
+        "com_config.h": "c",
+        "stdint.h": "c",
+        "time.h": "c",
+        "stm32f1xx_it.h": "c"
+    }
+}
