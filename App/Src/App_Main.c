@@ -112,6 +112,7 @@ static void App_Test_Generate_GPS_Data(void)
         "$GPTXT,01,01,01,ANTENNA OPEN*25", // 数组结束标记
         NULL                               // 添加空指针作为数组结束标志
     };
+    
     // 清除一下App_GPS_Data数据
     memset((char *)GPS_Data, 0, sizeof(GPS_Data));
     // 复制数据时需要逐个处理每个字符串
